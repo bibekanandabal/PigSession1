@@ -1,0 +1,18 @@
+1.
+Apache Pig is a high-level procedural language for querying large semi-structured data sets using Hadoop and the MapReduce Platform
+
+2.Pig, is designed with a long series of data operations in mind, so there is no need to write the data pipeline in an inverted set of subqueries or to worry about storing data in temporary tables.Pig is simple sql like language.
+
+Programmers must think in terms of map and reduce functions.Most probably Java programmers are required.
+
+3.Pig  engine is used for executing data flows in parallel on Hadoop. It includes a language, Pig Latin, for expressing these data flows.
+
+4. pig or pig -x local to run Pig in Local Mode.
+
+5.Users start with a Pig script or the Pig command line (called Grunt).
+
+6. Pig Latin language, aims at DataFlow operations instead of control flow operations, hence more focus is on data analysis.
+
+7.Yes
+
+8.Pig provides an engine for executing data flows in parallel on Hadoop. It includes a language, Pig Latin, for expressing these data flows.It is call data flow language.  
